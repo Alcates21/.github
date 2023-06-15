@@ -1,0 +1,2 @@
+# .github
+helping hand.com
